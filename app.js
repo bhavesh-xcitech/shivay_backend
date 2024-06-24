@@ -1,1 +1,1 @@
-wejgdbjmfbhdbhfasxhdsvhdjkasnfhds
+const lala = require("lallalala")
